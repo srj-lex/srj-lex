@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Sergey.
+
+I'm backend developer.
+
+My contacts:
+
+telegram - @smackdead
+
+
 <!--
 **srj-lex/srj-lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
